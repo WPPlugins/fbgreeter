@@ -1,0 +1,102 @@
+# Translation of the WordPress plugin FBgreeter 1.0 by Axiom7 Systems (http://axiom7.com).
+# Copyright (C) 2010 Axiom7 Systems (http://axiom7.com)
+# This file is distributed under the same license as the FBgreeter package.
+# L.R.T <L.R.T@axiom7.com>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: FBgreeter 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/FBgreeter\n"
+"POT-Creation-Date: 2010-08-18 18:07-0700\n"
+"PO-Revision-Date: 2010-08-18 19:01-0800\n"
+"Last-Translator: L.R.T <L.R.T@axiom7.com>\n"
+"Language-Team: French <French@axiom7.com>\n"
+"Language: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Ajax_handler.php:101
+#, php-format
+msgid "Hello %s!"
+msgstr "Bonjour %s !"
+
+#: Ajax_handler.php:103
+#, php-format
+msgid "We created an account for you at our site %s:"
+msgstr "Nous avons créé un compte pour vous sur notre site %s:"
+
+#: Ajax_handler.php:105
+#, php-format
+msgid "Your username is: %s"
+msgstr "Votre nom d'utilisateur est : %s"
+
+#: Ajax_handler.php:107
+#, php-format
+msgid "Your password is: %s"
+msgstr "Votre mot de passe est : %s"
+
+#: Ajax_handler.php:109
+msgid "You may use this account to comment on our blog."
+msgstr "Vous pouvez utiliser ce compte pour commenter sur notre blog."
+
+#: Ajax_handler.php:111
+msgid "Of course, you may also log in to our blog using your Facebook account."
+msgstr "Bien sûr, vous pouvez également accéder à notre blog en utilisant votre compte Facebook."
+
+#: Ajax_handler.php:113
+msgid "Enjoy!"
+msgstr "Bienvenue !"
+
+#: Ajax_handler.php:118
+#, php-format
+msgid "[%s] Welcome!"
+msgstr "[%s] Bienvenue !"
+
+#: FBgreeter.php:57
+msgid "FBgreeter Settings"
+msgstr "Paramètres de FBgreeter"
+
+#: FBgreeter.php:58
+msgid "Your Facebook App ID:"
+msgstr "Votre Facebook App ID :"
+
+#: FBgreeter.php:60
+msgid "Your Facebook App Secret:"
+msgstr "Votre Facebook App Secret :"
+
+#: FBgreeter.php:62
+msgid "Save Changes"
+msgstr "Enregistrer vos modifications"
+
+#: FBgreeter.php:84
+msgid "Settings saved."
+msgstr "Paramètres sauvegardés."
+
+#: FBgreeter.php:99
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n'avez pas d'autorisations suffisantes pour accéder à cette page."
+
+#: FBgreeter.php:230
+msgid "Title:"
+msgstr "Titre :"
+
+#. Plugin Name of the plugin/theme
+msgid "FBgreeter"
+msgstr "FBgreeter"
+
+#. #-#-#-#-#  FBgreeter.pot (FBgreeter 1.0)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  FBgreeter.pot (FBgreeter 1.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://axiom7.com"
+msgstr "http://axiom7.com"
+
+#. Description of the plugin/theme
+msgid "This plugin allows Facebook users to login and register to your blog with their Facebook account."
+msgstr "Ce plugin permet aux utilisateurs de Facebook de se connecter et créer un compte sur votre blog avec leur compte Facebook."
+
+#. Author of the plugin/theme
+msgid "Axiom7 Systems (http://axiom7.com)"
+msgstr "Axiom7 Systems (http://axiom7.com)"
+

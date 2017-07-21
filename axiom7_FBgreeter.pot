@@ -1,0 +1,104 @@
+# Translation of the WordPress plugin FBgreeter 1.0 by Axiom7 Systems (http://axiom7.com).
+# Copyright (C) 2010 Axiom7 Systems (http://axiom7.com)
+# This file is distributed under the same license as the FBgreeter package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: FBgreeter 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/FBgreeter\n"
+"POT-Creation-Date: 2010-08-18 18:07-0700\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Ajax_handler.php:101
+#, php-format
+msgid "Hello %s!"
+msgstr ""
+
+#: Ajax_handler.php:103
+#, php-format
+msgid "We created an account for you at our site %s:"
+msgstr ""
+
+#: Ajax_handler.php:105
+#, php-format
+msgid "Your username is: %s"
+msgstr ""
+
+#: Ajax_handler.php:107
+#, php-format
+msgid "Your password is: %s"
+msgstr ""
+
+#: Ajax_handler.php:109
+msgid "You may use this account to comment on our blog."
+msgstr ""
+
+#: Ajax_handler.php:111
+msgid "Of course, you may also log in to our blog using your Facebook account."
+msgstr ""
+
+#: Ajax_handler.php:113
+msgid "Enjoy!"
+msgstr ""
+
+#: Ajax_handler.php:118
+#, php-format
+msgid "[%s] Welcome!"
+msgstr ""
+
+#: FBgreeter.php:57
+msgid "FBgreeter Settings"
+msgstr ""
+
+#: FBgreeter.php:58
+msgid "Your Facebook App ID:"
+msgstr ""
+
+#: FBgreeter.php:60
+msgid "Your Facebook App Secret:"
+msgstr ""
+
+#: FBgreeter.php:62
+msgid "Save Changes"
+msgstr ""
+
+#: FBgreeter.php:84
+msgid "Settings saved."
+msgstr ""
+
+#: FBgreeter.php:99
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: FBgreeter.php:230
+msgid "Title:"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "FBgreeter"
+msgstr ""
+
+#. #-#-#-#-#  FBgreeter.pot (FBgreeter 1.0)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  FBgreeter.pot (FBgreeter 1.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://axiom7.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin allows Facebook users to login and register to your blog with "
+"their Facebook account."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Axiom7 Systems (http://axiom7.com)"
+msgstr ""
